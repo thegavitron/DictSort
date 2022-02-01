@@ -1,0 +1,2 @@
+# DictSort
+Sort words dictionarically
