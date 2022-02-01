@@ -1,11 +1,11 @@
 # DictSort
-Sort words dictionarically
-Think you have a bunch of words and you ant to sort them in the order how they occur in the dictionary.
+Sort words dictionarically.<br/>
+Think you have a bunch of words and you want to sort them in the order how they occur in the dictionary.
 
 ## Constructors
-```DictSort()```
+```DictSort()```<br/>
 Constructor don't take any arguments
 ***
 ## Methods
-```String[] sort(String[] words)```
+```String[] sort(String[] words)```<br/>
 returns the Strings that are sorted dictionarically
