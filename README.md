@@ -4,7 +4,7 @@ Think you have a bunch of words and you ant to sort them in the order how they o
 
 ## Constructors
 ```DictSort()```
-Constructors don't take any arguments
+Constructor don't take any arguments
 ***
 ## Methods
 ```String[] sort(String[] words)```
