@@ -72,20 +72,6 @@ public class DictSort{
 		return result;
 	}
 	
-	/*String[] nextVariation(String firstpart){
-		int h = firstpart.length();
-		ArrayList<String> result = new ArrayList<String>();
-		for(String word:words){
-			if(firstpart.equals(word.substring(0,h))){
-				result.add(word.substring(h,word.length()));
-			}
-		}
-		String[] r = new String[result.size()];
-		for(int i=0;i<result.size();i++){
-			r[i] = result.get(i);
-		}
-		return r;
-	}*/
 	String[] remainVariation(String[] list){
 		//removes the first character of each element
 		String[] res = new String[list.length];
