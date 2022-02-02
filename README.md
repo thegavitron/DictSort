@@ -30,7 +30,7 @@ public class Sorter{
 ```
 #### Running the Program
 ```
-$ javac myprogram/Sorter
+$ javac myprogram/Sorter.java
 $ java myprogram.Sorter cat apple bus bundle sand app
 app
 apple
