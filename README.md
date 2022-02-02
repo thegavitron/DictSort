@@ -57,7 +57,7 @@ To say, all the works are done by `getSuperiorWord` method.
 This method returns the most dictionarically superior word out of a bunch of words.
 Let's see, how it does so:
 - It calls `sortFirstLetter` method to sort the strings according to their first letter. 
-- Then another method `predictSuperior` is called to predict which words are eligible for being superior. This returns only this strings.
+- Then another method `predictSuperior` is called to predict which words are eligible for being superior. This returns these words.
 - Then with a method `remainVariant` the first letter is stripped of those words and saved in an output character array.
 - then the array of stripped word again go through the same process and by time output character array is developed.
 - when this process reach the end of a word, the resulted superior word from the output character array is generated and is returned. Obviously this is the most superior word.
