@@ -17,6 +17,7 @@ returns the Strings that are sorted dictionarically
 #### Writing a Sample Program
 ```
 package myprogram;
+import gavitron.DictSort;
 
 public class Sorter{
     public static void main(String[] args){
